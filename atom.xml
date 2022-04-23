@@ -3,11 +3,11 @@
   <title>野趣味科技</title>
   
   
-  <link href="https://zijin/atom.xml" rel="self"/>
+  <link href="https://zijinshan-soft/atom.xml" rel="self"/>
   
-  <link href="https://zijin/"/>
+  <link href="https://zijinshan-soft/"/>
   <updated>2022-02-09T12:32:57.066Z</updated>
-  <id>https://zijin/</id>
+  <id>https://zijinshan-soft/</id>
   
   <author>
     <name>星航</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>电脑故障维修常见的故障整理，电脑小白必备！</title>
-    <link href="https://zijin/2022/02/09/dngz/"/>
-    <id>https://zijin/2022/02/09/dngz/</id>
+    <link href="https://zijinshan-soft/2022/02/09/dngz/"/>
+    <id>https://zijinshan-soft/2022/02/09/dngz/</id>
     <published>2022-02-09T12:30:00.000Z</published>
     <updated>2022-02-09T12:32:57.066Z</updated>
     
@@ -52,19 +52,19 @@
     
     
     
-    <category term="电脑那些事" scheme="https://zijin/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <category term="电脑那些事" scheme="https://zijinshan-soft/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
     
     
-    <category term="软件" scheme="https://zijin/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://zijinshan-soft/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-    <category term="Windows系统" scheme="https://zijin/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
+    <category term="Windows系统" scheme="https://zijinshan-soft/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>微软Windows官方电脑管家，仅针对国内用户？这是真的吗</title>
-    <link href="https://zijin/2022/01/26/wrdngl/"/>
-    <id>https://zijin/2022/01/26/wrdngl/</id>
+    <link href="https://zijinshan-soft/2022/01/26/wrdngl/"/>
+    <id>https://zijinshan-soft/2022/01/26/wrdngl/</id>
     <published>2022-01-26T14:00:00.000Z</published>
     <updated>2022-02-09T12:38:36.677Z</updated>
     
@@ -89,17 +89,17 @@
     
     
     
-    <category term="电脑那些事" scheme="https://zijin/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <category term="电脑那些事" scheme="https://zijinshan-soft/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
     
     
-    <category term="Windows系统" scheme="https://zijin/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
+    <category term="Windows系统" scheme="https://zijinshan-soft/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>几种常见的电脑系统故障解答</title>
-    <link href="https://zijin/2022/01/21/xtgz/"/>
-    <id>https://zijin/2022/01/21/xtgz/</id>
+    <link href="https://zijinshan-soft/2022/01/21/xtgz/"/>
+    <id>https://zijinshan-soft/2022/01/21/xtgz/</id>
     <published>2022-01-21T14:00:00.000Z</published>
     <updated>2022-02-09T12:38:45.597Z</updated>
     
@@ -149,17 +149,17 @@ CPU过于超频。
     
     
     
-    <category term="电脑那些事" scheme="https://zijin/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <category term="电脑那些事" scheme="https://zijinshan-soft/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
     
     
-    <category term="Windows系统" scheme="https://zijin/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
+    <category term="Windows系统" scheme="https://zijinshan-soft/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>杀毒软件：Windows Defender使用技巧！</title>
-    <link href="https://zijin/2022/01/20/Windows%20Defender/"/>
-    <id>https://zijin/2022/01/20/Windows%20Defender/</id>
+    <link href="https://zijinshan-soft/2022/01/20/Windows%20Defender/"/>
+    <id>https://zijinshan-soft/2022/01/20/Windows%20Defender/</id>
     <published>2022-01-20T14:00:00.000Z</published>
     <updated>2022-02-09T12:38:20.168Z</updated>
     
@@ -188,17 +188,17 @@ CPU过于超频。
     
     
     
-    <category term="杀毒软件" scheme="https://zijin/categories/%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6/"/>
+    <category term="杀毒软件" scheme="https://zijinshan-soft/categories/%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="软件" scheme="https://zijin/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://zijinshan-soft/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>APP技巧：电脑登录微信，要删除这5个文件！否则别人能查看聊天记录</title>
-    <link href="https://zijin/2022/01/18/wx/"/>
-    <id>https://zijin/2022/01/18/wx/</id>
+    <link href="https://zijinshan-soft/2022/01/18/wx/"/>
+    <id>https://zijinshan-soft/2022/01/18/wx/</id>
     <published>2022-01-18T15:00:00.000Z</published>
     <updated>2022-02-09T12:34:47.360Z</updated>
     
@@ -226,17 +226,17 @@ CPU过于超频。
     
     
     
-    <category term="电脑那些事" scheme="https://zijin/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <category term="电脑那些事" scheme="https://zijinshan-soft/categories/%E7%94%B5%E8%84%91%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
     
     
-    <category term="微信删除文件" scheme="https://zijin/tags/%E5%BE%AE%E4%BF%A1%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/"/>
+    <category term="微信删除文件" scheme="https://zijinshan-soft/tags/%E5%BE%AE%E4%BF%A1%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>分享一款好用到爆的Chrome插件！！你们不用，我寝食难安……</title>
-    <link href="https://zijin/2022/01/17/cj/"/>
-    <id>https://zijin/2022/01/17/cj/</id>
+    <link href="https://zijinshan-soft/2022/01/17/cj/"/>
+    <id>https://zijinshan-soft/2022/01/17/cj/</id>
     <published>2022-01-17T15:00:00.000Z</published>
     <updated>2022-02-09T12:36:40.121Z</updated>
     
@@ -268,17 +268,17 @@ iTab是一款个性化卡片式起始页插件，印象中我分享过的标签�
     
     
     
-    <category term="Windows" scheme="https://zijin/categories/Windows/"/>
+    <category term="Windows" scheme="https://zijinshan-soft/categories/Windows/"/>
     
     
-    <category term="插件" scheme="https://zijin/tags/%E6%8F%92%E4%BB%B6/"/>
+    <category term="插件" scheme="https://zijinshan-soft/tags/%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>开发工具：Intellij IDEA 非常实用的小技巧，你确定不来看看？</title>
-    <link href="https://zijin/2022/01/16/idea/"/>
-    <id>https://zijin/2022/01/16/idea/</id>
+    <link href="https://zijinshan-soft/2022/01/16/idea/"/>
+    <id>https://zijinshan-soft/2022/01/16/idea/</id>
     <published>2022-01-16T14:30:24.000Z</published>
     <updated>2022-02-09T12:34:06.496Z</updated>
     
@@ -310,17 +310,17 @@ iTab是一款个性化卡片式起始页插件，印象中我分享过的标签�
     
     
     
-    <category term="今日头条" scheme="https://zijin/categories/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/"/>
+    <category term="今日头条" scheme="https://zijinshan-soft/categories/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/"/>
     
     
-    <category term="idea" scheme="https://zijin/tags/idea/"/>
+    <category term="idea" scheme="https://zijinshan-soft/tags/idea/"/>
     
   </entry>
   
   <entry>
     <title>惊艳！这5个超棒的Windows软件，让你电脑好用n倍不止</title>
-    <link href="https://zijin/2022/01/15/windowsrj/"/>
-    <id>https://zijin/2022/01/15/windowsrj/</id>
+    <link href="https://zijinshan-soft/2022/01/15/windowsrj/"/>
+    <id>https://zijinshan-soft/2022/01/15/windowsrj/</id>
     <published>2022-01-15T12:30:00.000Z</published>
     <updated>2022-02-09T12:34:26.097Z</updated>
     
@@ -343,19 +343,19 @@ iTab是一款个性化卡片式起始页插件，印象中我分享过的标签�
     
     
     
-    <category term="软件" scheme="https://zijin/categories/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://zijinshan-soft/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="软件" scheme="https://zijin/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://zijinshan-soft/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-    <category term="Windows系统" scheme="https://zijin/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
+    <category term="Windows系统" scheme="https://zijinshan-soft/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>手机选购：2022年初买手机多大内存合适，看完你就会选了！</title>
-    <link href="https://zijin/2022/01/14/sj/"/>
-    <id>https://zijin/2022/01/14/sj/</id>
+    <link href="https://zijinshan-soft/2022/01/14/sj/"/>
+    <id>https://zijinshan-soft/2022/01/14/sj/</id>
     <published>2022-01-14T13:00:00.000Z</published>
     <updated>2022-01-14T13:03:16.458Z</updated>
     
@@ -374,19 +374,19 @@ iTab是一款个性化卡片式起始页插件，印象中我分享过的标签�
     
     
     
-    <category term="手机" scheme="https://zijin/categories/%E6%89%8B%E6%9C%BA/"/>
+    <category term="手机" scheme="https://zijinshan-soft/categories/%E6%89%8B%E6%9C%BA/"/>
     
     
-    <category term="购机" scheme="https://zijin/tags/%E8%B4%AD%E6%9C%BA/"/>
+    <category term="购机" scheme="https://zijinshan-soft/tags/%E8%B4%AD%E6%9C%BA/"/>
     
-    <category term="换手机" scheme="https://zijin/tags/%E6%8D%A2%E6%89%8B%E6%9C%BA/"/>
+    <category term="换手机" scheme="https://zijinshan-soft/tags/%E6%8D%A2%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>手机投屏到电视，1分钟就能学会，无需下载任何软件，太实用了！</title>
-    <link href="https://zijin/2022/01/13/tp/"/>
-    <id>https://zijin/2022/01/13/tp/</id>
+    <link href="https://zijinshan-soft/2022/01/13/tp/"/>
+    <id>https://zijinshan-soft/2022/01/13/tp/</id>
     <published>2022-01-12T16:00:24.000Z</published>
     <updated>2022-01-13T12:43:08.427Z</updated>
     
@@ -407,17 +407,17 @@ iTab是一款个性化卡片式起始页插件，印象中我分享过的标签�
     
     
     
-    <category term="手机" scheme="https://zijin/categories/%E6%89%8B%E6%9C%BA/"/>
+    <category term="手机" scheme="https://zijinshan-soft/categories/%E6%89%8B%E6%9C%BA/"/>
     
     
-    <category term="手机投屏" scheme="https://zijin/tags/%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/"/>
+    <category term="手机投屏" scheme="https://zijinshan-soft/tags/%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/"/>
     
   </entry>
   
   <entry>
     <title>Typora 开启收费模式</title>
-    <link href="https://zijin/2022/01/12/typora/"/>
-    <id>https://zijin/2022/01/12/typora/</id>
+    <link href="https://zijinshan-soft/2022/01/12/typora/"/>
+    <id>https://zijinshan-soft/2022/01/12/typora/</id>
     <published>2022-01-12T06:39:31.000Z</published>
     <updated>2022-02-09T12:34:19.017Z</updated>
     
@@ -442,17 +442,17 @@ Typora目前采用一次买断制，价格为 14.99 美元，折合RMB为89 元�
     
     
     
-    <category term="今日头条" scheme="https://zijin/categories/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/"/>
+    <category term="今日头条" scheme="https://zijinshan-soft/categories/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/"/>
     
     
-    <category term="Typora" scheme="https://zijin/tags/Typora/"/>
+    <category term="Typora" scheme="https://zijinshan-soft/tags/Typora/"/>
     
   </entry>
   
   <entry>
     <title>3步教你，百度网盘下载不限速，比SVIP速度还要快！</title>
-    <link href="https://zijin/2022/01/12/bxs/"/>
-    <id>https://zijin/2022/01/12/bxs/</id>
+    <link href="https://zijinshan-soft/2022/01/12/bxs/"/>
+    <id>https://zijinshan-soft/2022/01/12/bxs/</id>
     <published>2022-01-11T16:00:24.000Z</published>
     <updated>2022-02-09T12:33:59.165Z</updated>
     
@@ -485,12 +485,12 @@ Typora目前采用一次买断制，价格为 14.99 美元，折合RMB为89 元�
     
     
     
-    <category term="今日头条" scheme="https://zijin/categories/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/"/>
+    <category term="今日头条" scheme="https://zijinshan-soft/categories/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/"/>
     
     
-    <category term="不限速" scheme="https://zijin/tags/%E4%B8%8D%E9%99%90%E9%80%9F/"/>
+    <category term="不限速" scheme="https://zijinshan-soft/tags/%E4%B8%8D%E9%99%90%E9%80%9F/"/>
     
-    <category term="百度网盘" scheme="https://zijin/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
+    <category term="百度网盘" scheme="https://zijinshan-soft/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
     
   </entry>
   
